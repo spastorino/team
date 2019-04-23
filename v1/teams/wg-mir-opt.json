@@ -1,0 +1,21 @@
+{
+  "name": "wg-mir-opt",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Oliver Schneider",
+      "github": "oli-obk",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "MIR Optimizations",
+    "description": "Write MIR optimizations and refactor the MIR to be more optimizable.",
+    "page": "wg-mir-opt",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/tree/master/working-groups/mir-opt",
+    "discord": null,
+    "weight": 0
+  }
+}

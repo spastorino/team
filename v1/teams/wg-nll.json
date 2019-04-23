@@ -1,0 +1,26 @@
+{
+  "name": "wg-nll",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Non-Lexical Lifetimes (NLL)",
+    "description": "Implementing the new MIR-based borrow check and non-lexical lifetimes",
+    "page": "wg-nll",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/tree/master/working-groups/nll",
+    "discord": null,
+    "weight": 0
+  }
+}

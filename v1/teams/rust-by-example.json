@@ -1,0 +1,26 @@
+{
+  "name": "rust-by-example",
+  "kind": "team",
+  "subteam_of": "docs",
+  "members": [
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "is_lead": true
+    },
+    {
+      "name": "Mário Idival",
+      "github": "marioidival",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Rust by Example team",
+    "description": "maintaining and updating Rust By Example",
+    "page": "rust-by-example",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

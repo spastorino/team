@@ -1,0 +1,59 @@
+{
+  "name": "devtools",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "is_lead": true
+    },
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "is_lead": false
+    },
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "is_lead": false
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Schneider",
+      "github": "oli-obk",
+      "is_lead": false
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Dev tools team",
+    "description": "Rust developer tools",
+    "page": "dev-tools",
+    "email": "tools@rust-lang.org",
+    "repo": "https://github.com/rust-dev-tools/dev-tools-team",
+    "discord": {
+      "channel": "#dev-tools",
+      "url": "https://discord.gg/sG23nSS"
+    },
+    "weight": 0
+  }
+}

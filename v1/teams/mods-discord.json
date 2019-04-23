@@ -1,0 +1,46 @@
+{
+  "name": "mods-discord",
+  "kind": "team",
+  "subteam_of": "mods",
+  "members": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "is_lead": false
+    },
+    {
+      "name": "Khionu Sybiern",
+      "github": "Khionu",
+      "is_lead": false
+    },
+    {
+      "name": "Olivia Hugger",
+      "github": "komaeda",
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "is_lead": false
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Gould",
+      "github": "technetos",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Discord moderators",
+    "description": "Moderating the Discord server",
+    "page": "mods-discord",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

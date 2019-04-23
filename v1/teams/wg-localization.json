@@ -1,0 +1,29 @@
+{
+  "name": "wg-localization",
+  "kind": "working_group",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Localization WG",
+    "description": "Working towards",
+    "page": "wg-localization",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#community-team",
+      "url": "https://discord.gg/cj5HMXA"
+    },
+    "weight": 0
+  }
+}

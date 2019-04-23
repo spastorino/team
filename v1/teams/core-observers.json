@@ -1,0 +1,21 @@
+{
+  "name": "core-observers",
+  "kind": "team",
+  "subteam_of": "core",
+  "members": [
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Core Team Observers",
+    "description": "observers on the core team",
+    "page": "core-observers",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

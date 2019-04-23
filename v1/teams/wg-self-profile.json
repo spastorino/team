@@ -1,0 +1,26 @@
+{
+  "name": "wg-self-profile",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "is_lead": true
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Self-Profile",
+    "description": "Improving the -Z self-profile feature",
+    "page": "wg-self-profile",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/self-profile",
+    "discord": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "wg-meta",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Meta",
+    "description": "How compiler team organizes itself",
+    "page": "wg-meta",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/meta",
+    "discord": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "wg-leads",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": false
+    },
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "is_lead": false
+    },
+    {
+      "name": "Diane Hosfelt",
+      "github": "avadacatavra",
+      "is_lead": false
+    },
+    {
+      "name": "blitzerr",
+      "github": "blitzerr",
+      "is_lead": false
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "is_lead": false
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "is_lead": false
+    },
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "is_lead": false
+    },
+    {
+      "name": "Emilio Cobos Álvarez",
+      "github": "emilio",
+      "is_lead": false
+    },
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "is_lead": false
+    },
+    {
+      "name": "Jorge Aparicio",
+      "github": "japaric",
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "is_lead": false
+    },
+    {
+      "name": "Levente Kurusa",
+      "github": "levex",
+      "is_lead": false
+    },
+    {
+      "name": "Josef Brandl",
+      "github": "MajorBreakfast",
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "is_lead": false
+    },
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "is_lead": false
+    },
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "is_lead": false
+    },
+    {
+      "name": "Simonas Kazlauskas",
+      "github": "nagisa",
+      "is_lead": false
+    },
+    {
+      "name": "Wim",
+      "github": "Nemo157",
+      "is_lead": false
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": false
+    },
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Schneider",
+      "github": "oli-obk",
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "is_lead": false
+    },
+    {
+      "name": "Douglas Campos",
+      "github": "qmx",
+      "is_lead": false
+    },
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "is_lead": false
+    },
+    {
+      "name": "Seiichi Uchida",
+      "github": "topecongiro",
+      "is_lead": false
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    },
+    {
+      "name": "Yoshua Wuyts",
+      "github": "yoshuawuyts",
+      "is_lead": false
+    },
+    {
+      "name": "Zoxc",
+      "github": "Zoxc",
+      "is_lead": false
+    }
+  ],
+  "website_data": null
+}

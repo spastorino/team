@@ -1,0 +1,21 @@
+{
+  "name": "wg-llvm",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Simonas Kazlauskas",
+      "github": "nagisa",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "LLVM",
+    "description": "Working with LLVM upstream to represent Rust in its development",
+    "page": "wg-llvm",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/llvm",
+    "discord": null,
+    "weight": 0
+  }
+}

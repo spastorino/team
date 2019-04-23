@@ -1,0 +1,21 @@
+{
+  "name": "wg-pgo",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Profile-guided optimization",
+    "description": "Implementing profile-guided optimization for rustc",
+    "page": "wg-pgo",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/pgo",
+    "discord": null,
+    "weight": 0
+  }
+}

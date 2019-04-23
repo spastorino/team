@@ -1,0 +1,26 @@
+{
+  "name": "wg-async-await",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Async-await Implementation",
+    "description": "Implementing async-await",
+    "page": "wg-async-await",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/async-await",
+    "discord": null,
+    "weight": 0
+  }
+}
